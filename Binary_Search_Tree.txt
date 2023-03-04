@@ -1,0 +1,21 @@
+QUESTION
+
+
+[7,5,1,8,3,6,0,9,4,2] -> Binary Search Tree
+
+Root: 6 
+
+             6
+            / \
+           5   8
+          /   / \
+         3   7   9
+        / \       
+       1   4       
+      / \
+     0   2     
+
+Root: 6
+On the left side: [0,1,2,3,4,5]
+On the right side: [7,8,9] 
+        
